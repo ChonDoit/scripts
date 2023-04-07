@@ -41,7 +41,7 @@ sudo DEBIAN_FRONTEND=noninteractive \
     libsdl1.2-dev libssl-dev libtool libxml2 libxml2-utils '^lzma.*' lzop \
     maven ncftp ncurses-dev patch patchelf pkg-config pngcrush \
     pngquant python2.7 python-all-dev re2c schedtool squashfs-tools subversion \
-    texinfo unzip w3m xsltproc zip zlib1g-dev lzip \
+    texinfo unzip w3m xattr xsltproc zip zlib1g-dev lzip \
     libxml-simple-perl libswitch-perl apt-utils \
     ${PACKAGES} -y
 
